@@ -34,3 +34,5 @@ testWebP(function (support) {
 });
 ```
 ---
+## Work experience:
+- 2017 - now: *operator Computer Numerical Controled Mashine (crimping and welding)*
