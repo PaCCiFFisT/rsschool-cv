@@ -1,1 +1,1 @@
-https://PaCCiFFisT.github.io/rsschool-cv/cv.md
+https://PaCCiFFisT.github.io/rsschool-cv/cv
