@@ -21,7 +21,7 @@
 ---
 ## Education:
 - In progress: *RS-School JavaScript/Front-end course 2021q1*
-- 06.2020 - for now: *self-education in front-end development from different sources*
+- 06.2020 - current time: *self-education in front-end development from different sources*
 ---
 ## Code sample
 ```js
