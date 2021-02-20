@@ -8,3 +8,14 @@
 - phone number
 - pacciffist@gmail.com
 ---
+## Skils:
+- HTML, CSS and SCSS
+- basic JS
+- working with Gulp
+- some usage Git 
+---
+## Languages:
+- English - beginer
+- Polish lang. - pre-intermadiate
+- Ukranian/Russian - native
+---
