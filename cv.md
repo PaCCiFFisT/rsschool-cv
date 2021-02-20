@@ -35,4 +35,4 @@ testWebP(function (support) {
 ```
 ---
 ## Work experience:
-- 2017 - now: *operator Computer Numerical Controled Mashine (crimping and welding)*
+- 2017 - current time: *operator Computer Numerical Controled Mashine (crimping and welding)*
