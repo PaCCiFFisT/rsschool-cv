@@ -15,3 +15,21 @@
 - working with Gulp
 - some usage Git 
 ---
+## Languages:
+- English - beginer
+- Polish lang. - pre-intermadiate
+- Ukranian/Russian - native
+---
+## Work experience:
+- 2017 - now: *operator Computer Numerical Controled Mashine (crimping and welding)*
+---
+## Code sample
+```js
+testWebP(function (support) {
+  if (support == true) {
+    document.querySelector('body').classList.add('webp');
+  } else {
+    document.querySelector('body').classList.add('no-webp');
+  }
+});
+```
