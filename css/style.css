@@ -275,6 +275,15 @@ a:visited {
   height: 40px;
 }
 
+.about {
+  margin-bottom: 40px;
+}
+
+.about__article {
+  font-size: 18px;
+  line-height: 24px;
+}
+
 @media (min-width: 1250px) {
   .main__info--header div {
     position: relative;
