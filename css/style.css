@@ -250,6 +250,10 @@ a:visited {
   line-height: 20px;
 }
 
+.about-me__list--item a:hover {
+  text-transform: uppercase;
+}
+
 .work__section {
   margin-bottom: 40px;
 }
