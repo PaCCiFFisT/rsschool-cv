@@ -252,6 +252,7 @@ a:visited {
 
 .about-me__list--item a:hover {
   text-transform: uppercase;
+  text-decoration: underline;
 }
 
 .work__section {
